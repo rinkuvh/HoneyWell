@@ -1,0 +1,180 @@
+.ckeditor-error {
+  color: #d32f2f !important;
+  font-size: 12px;
+  line-height: 15px;
+  font-family: "Poppins-Regular";
+  margin-top: 4px;
+}
+
+.ck-editor__editable_inline {
+  min-height: 250px;
+}
+
+.ck-editor__editable ul li {
+  margin: 0px 15px !important;
+}
+
+.ck-editor__editable ol li {
+  margin: 0px 15px !important;
+}
+
+.ck.ck-toolbar.ck-toolbar_grouping {
+  background: #fff;
+  border: 1px solid #3e3e3e;
+}
+
+.ck.ck-button.ck-on,
+.ck-custom-editor-main a.ck.ck-button.ck-on {
+  background: #fff;
+}
+
+.ck-custom-editor-main .ck.ck-list {
+  background: #fff;
+}
+
+.ck.ck-dropdown__panel {
+  border-color: #3e3e3e;
+  background-color: #fff;
+}
+
+.ck.ck-editor__main>.ck-editor__editable:not(.ck-focused),
+.ck.ck-editor__main>.ck-editor__editable.ck-focused {
+  background: #fff;
+  color: #000;
+  min-height: 300px;
+}
+
+.ck-reset_all :not(.ck-reset_all-excluded *),
+.ck.ck-reset_all {
+  color: #000 !important;
+}
+
+.ck.ck-toolbar .ck.ck-toolbar__separator {
+  background: #fff;
+}
+
+.ck.ck-button:not(.ck-disabled):hover,
+a.ck.ck-button:not(.ck-disabled):hover {
+  background: #fff;
+}
+
+ul.ck.ck-reset.ck-list {
+  background: #fff;
+}
+
+.ck.ck-list__item .ck-button.ck-on {
+  background: #fff;
+}
+
+.ck.ck-list__item .ck-button.ck-on:focus:not(.ck-switchbutton):not(.ck-disabled) {
+  border: 1px solid #3e3e3e;
+  box-shadow: none;
+}
+
+.ck.ck-dropdown .ck-button.ck-dropdown__button.ck-off:active,
+.ck.ck-dropdown .ck-button.ck-dropdown__button.ck-on:active {
+  box-shadow: none !important;
+  border: none;
+  background: #fff;
+  color: white;
+}
+
+.ck.ck-button.ck-on,
+a.ck.ck-button.ck-on {
+  color: #000fff;
+}
+
+.ck.ck-toolbar.ck-toolbar_grouping {
+  background: #fff;
+  border: 1px solid #3e3e3e;
+}
+
+.ck.ck-button.ck-on,
+.ck-custom-editor-main a.ck.ck-button.ck-on {
+  background: #fff;
+}
+
+.ck-custom-editor-main .ck.ck-list {
+  background: #fff;
+}
+
+.ck.ck-dropdown__panel {
+  border-color: #3e3e3e;
+  background-color: #fff;
+}
+
+.ck.ck-editor__main>.ck-editor__editable:not(.ck-focused),
+.ck.ck-editor__main>.ck-editor__editable.ck-focused {
+  background: #fff;
+  border-color: var(--main-border);
+  color: #000;
+  min-height: 300px;
+}
+
+.ck-reset_all :not(.ck-reset_all-excluded *),
+.ck.ck-reset_all {
+  color: #000;
+}
+
+.ck.ck-toolbar .ck.ck-toolbar__separator {
+  background: #fff;
+}
+
+.ck.ck-button:not(.ck-disabled):hover,
+a.ck.ck-button:not(.ck-disabled):hover {
+  background: #fff;
+}
+
+.ck.ck-dropdown .ck-button.ck-dropdown__button.ck-off:active,
+.ck.ck-dropdown .ck-button.ck-dropdown__button.ck-on:active {
+  box-shadow: none !important;
+  border: none;
+  background: #fff;
+  color: #000;
+}
+
+.ck.ck-button:not(.ck-disabled):hover,
+a.ck.ck-button:not(.ck-disabled):hover,
+.ck.ck-list__item .ck-button:hover:not(.ck-disabled) {
+  background: #fff;
+}
+
+.ck.ck-button.ck-on,
+a.ck.ck-button.ck-on {
+  color: #000;
+}
+
+.ck.ck-button:not(.ck-disabled):hover,
+a.ck.ck-button:not(.ck-disabled):hover,
+.ck.ck-button.ck-on:not(.ck-disabled):hover,
+a.ck.ck-button.ck-on:not(.ck-disabled):hover,
+.ck.ck-labeled-field-view>.ck.ck-labeled-field-view__input-wrapper>.ck.ck-label {
+  background: #fff;
+}
+
+.ck.ck-balloon-panel {
+  background: #fff;
+  border: var(--ck-balloon-border-width) solid #3e3e3e;
+}
+
+.ck.ck-balloon-panel[class*="arrow_n"]:after {
+  border-color: transparent transparent #fff transparent;
+  margin-top: 0px;
+}
+
+.ck.ck-content a {
+  color: #000;
+}
+
+.ck.ck-input {
+  background: #fff;
+  border: 1px solid #3e3e3e;
+}
+
+.ck.ck-button:not(.ck-disabled):hover,
+a.ck.ck-button:not(.ck-disabled):hover {
+  background-color: transparent;
+}
+.ck .ck-powered-by{
+  display: none;
+}
