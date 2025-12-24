@@ -1,0 +1,29 @@
+.doc-preview{
+    display: flex;
+    flex-direction: column;
+}
+.doc-preview img{
+    width: 80px;
+
+}
+.doc-preview .file-name{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    width: 70px;
+}
+.upload-doc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.upload-doc p{
+    color: black;
+    font-size: 10px;
+}
+.date-input-field input{
+    border-right: 0 !important;
+}
